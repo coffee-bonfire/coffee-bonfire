@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=figma" />
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=js,html,css,kotlin,java,gradle" />
+<img src="https://skillicons.dev/icons?i=js,html,css,kotlin,java,php,gradle" />
 
 </td>
 </tr>
