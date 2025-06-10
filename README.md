@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 🚀 **Android Developer**   
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Solving business challenges
+💼 **Focus:** Solving business challenges  
 ☕ **Powered by:** Coffee  
 🎯 **Goal:** Creating amazing user experiences 
 
